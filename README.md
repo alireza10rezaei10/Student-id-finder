@@ -3,3 +3,7 @@
 
 
 #### دقت شود که این کد فقط جنبه ی آموزشی داشته و هر گونه استفاده ی غیر مناسب از آن به عهده ی استفاده کننده می باشد.
+
+![1](https://user-images.githubusercontent.com/80483621/179144958-b04c0daa-2a4e-45e0-9ea3-7ba1e84a8f9f.png)
+
+![2](https://user-images.githubusercontent.com/80483621/179145322-f15b3583-ffef-451e-801f-15e49194d515.png)
